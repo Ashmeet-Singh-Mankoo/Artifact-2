@@ -1,0 +1,16 @@
+*{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.chessBoard{
+    box-shadow: -5px 5px 5px 5px;
+    width: 1080px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    margin-top: 15px;
+}
